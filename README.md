@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**devapriyacc/devapriyacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Devapriya C C — a student, problem-solver, and AI enthusiast.  
+Currently pursuing my B.Tech in AI & DS, I’m passionate about using data and code to understand the world and improve it.
 
-Here are some ideas to get you started:
+I love experimenting with:
+- Machine Learning pipelines  
+- Real-world classification problems  
+- Natural Language Processing tasks  
+- Ethical and explainable AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not coding, I’m probably learning something new, sketching out a project idea, or discussing the future of AI.
+
+Let’s build what’s next.
+
+Open to opportunities, collaborations, and conversations:
+LinkedIn: [www.linkedin.com/in/devapriya-cc-17998b258]
+Email: [devapriyacc2020@gmail.com]
